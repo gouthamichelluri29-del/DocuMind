@@ -40,5 +40,10 @@ DocuMind follows a **Retrieval-Augmented Generation (RAG)** pipeline:
 - **Streamlit** — web interface  
 - **MLflow (optional)** — experiment tracking  
 
----
+## Installation
+
+Clone the repository
+pip install -r requirements.txt
+- Setup LLM (Ollama) : ollama run llama3
+- Run the App : streamlit run app.py
 
