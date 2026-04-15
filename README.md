@@ -6,13 +6,13 @@ DocuMind is a Retrieval-Augmented Generation (RAG) based system that allows user
 
 ## Features
 
-- 📂 Upload PDF documents
-- 🔍 Semantic search using FAISS vector database
-- 🤖 Context-aware answer generation using LLM (LLaMA via Ollama)
-- 🧠 Prompt engineering (basic, chain-of-thought, few-shot)
-- 📊 (Optional) MLflow tracking for prompt evaluation
-- 📌 Source chunk display for transparency and reduced hallucination
-- 🌐 Interactive UI using Streamlit
+- Upload PDF documents
+- Semantic search using FAISS vector database
+- Context-aware answer generation using LLM (LLaMA via Ollama)
+- Prompt engineering (basic, chain-of-thought, few-shot)
+- Optional) MLflow tracking for prompt evaluation
+- Source chunk display for transparency and reduced hallucination
+- Interactive UI using Streamlit
 
 ---
 
