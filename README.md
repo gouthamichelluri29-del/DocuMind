@@ -30,6 +30,13 @@ DocuMind follows a **Retrieval-Augmented Generation (RAG)** pipeline:
 8. Display Answer + Source Chunks  
 
 ---
+## 📂 Data
+
+This project does not include sample datasets.
+
+You can test the system using your own PDF documents by uploading them through the application interface.
+
+--- 
 
 ## Tech Stack
 
