@@ -30,7 +30,7 @@ DocuMind follows a **Retrieval-Augmented Generation (RAG)** pipeline:
 8. Display Answer + Source Chunks  
 
 ---
-## 📂 Data
+## Data
 
 This project does not include sample datasets.
 
