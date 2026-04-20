@@ -54,3 +54,5 @@ pip install -r requirements.txt
 - Setup LLM (Ollama) : ollama run llama3
 - Run the App : streamlit run app.py
 
+## Working app model:
+You can upload the pdf document and ask questions in here 😊 : https://gouthamichelluri29-del-documind-documind-grok-ai29t6.streamlit.app/
