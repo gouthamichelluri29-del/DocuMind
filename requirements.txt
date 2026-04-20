@@ -7,3 +7,5 @@ pypdf
 sentence-transformers
 mlflow
 ollama
+langchain-groq==0.1.10
+groq
